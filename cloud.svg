@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <defs>
+    <radialGradient id="holoGradient" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+      <stop offset="0%" style="stop-color: #00c6ff; stop-opacity: 1" />
+      <stop offset="50%" style="stop-color: #0072ff; stop-opacity: 1" />
+      <stop offset="100%" style="stop-color: #00f6ff; stop-opacity: 1" />
+    </radialGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+  <g filter="url(#glow)">
+    <path d="M150 100c0 22.09-17.91 40-40 40H70c-22.09 0-40-17.91-40-40s17.91-40 40-40c5.33-15.23 19.92-26 37-26 22.09 0 40 17.91 40 40z" fill="url(#holoGradient)" />
+  </g>
+</svg>

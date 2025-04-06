@@ -1,0 +1,41 @@
+Page 2
+
+        wards crystallized intelligence, 19 whereas IQ tests like Raven's progressive matrices (1962)
+        are heavily weighted toward fluid intelligence. 20,21 Many psychologists do not recognize the
+        differences among these measures and interchangeably use IQ, achievement tests, and grades
+        to measure "cognitive ability" or "intelligence," and this practice is also widespread in eco-
+        nomics. 22
+
+        2.2 Defining and Measuring Psychological Traits
+
+        Validating one measure of cognitive ability using other measures of cognitive ability is circu-
+        lar. More relevant is how well these measures predict important life outcomes. Table 2 shows
+        the extent to which IQ, standardized achievement tests, and grades explain the variance of
+        outcomes at age 35 in the National Longitudinal Survey of Youth, 1979 (NLSY79) data. The
+        three groups of columns under each category show results for different sub-samples based on
+        the availability of the different cognitive measures. For each category, the first column shows
+        the explained variance using only the designated measure of cognitive ability. 23 Achievement
+        tests and grades are more predictive than IQ. But none of these measures explains much of
+        the variation of any outcome, leaving considerable room for other determinants. As noted
+        in the introduction, it is unlikely that measurement error accounts for all of the remaining
+        variance.
+
+        Personality is one missing ingredient. The second columns in each category preview our
+        later discussion of the explanatory power of personality. They show the variance explained
+        by measures of personality. 24 In many cases, the variance explained by personality measures
+        rivals that explained by measures of cognitive ability. The relative importance of person-
+
+                     19Roberts et al. (2000).
+        20 Raven et al. (1988). The high correlation between intelligence and achievement tests is in part due to
+        the fact that both require cognitive ability and knowledge. Common developmental factors may affect both
+        of these traits. Fluid intelligence promotes the acquisition of crystallized intelligence.
+
+                     22See Flynn (2007) and Nisbett et al. (2012). For examples in economics see Benjamin et al. (2006).  21 Carroll (1994) and Ackerman and Heggestad (1997) discuss more disaggregated facets of cognitive ability.
+
+                     23See Almlund et al. (2011) for a more complete array of outcomes in the format of Table 2.
+        24 They include measures of adolescent risky behavior, self-esteem and locus of control (the extent to which
+        people feel they have control over their lives). For precise definitions of the measures used, see the notes to
+        Table 2.
+
+                                                                                                                      9
+
